@@ -1,4 +1,4 @@
-// alert("This site is optimised for use on PC💻 only.")
+alert("This site is optimised for use on PC💻 only.")
 //  Variable Declaration
 var timer=60;
 var score=0;
